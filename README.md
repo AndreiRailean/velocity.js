@@ -36,7 +36,7 @@ via npm:
 $ npm install velocityjs
 ```
 
-## Broswer
+## Browser
 
 Compatible all modern broswer, You can try [test case](http://git.shepherdwind.com/velocity.js/runner/tests.html) on your browser to test it.
 
